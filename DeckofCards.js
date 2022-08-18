@@ -38,7 +38,6 @@ $btn.on('click', function() {
     let newCard = axios.get(baseUrl + `${deckId}` + '/draw/')
     newCard
     .then(data => {
-        console.log(data)
         if (data.data.remaining !== 0) {
         let $item = `
         <div>
