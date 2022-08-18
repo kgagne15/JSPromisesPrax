@@ -9,9 +9,9 @@ data back put all number facts on page -- DONE
 
 
 Part 2: Deck of Cards
-1. Request single card from newly shuffled deck, then console.log the value
-2. Do the same as above but when you have the card make another request to get one more card
+1. Request single card from newly shuffled deck, then console.log the value -- DONE
+2. Do the same as above but when you have the card make another request to get one more card -- DONE
 from the same deck
-3. Build an HTML page that lets you draw cards from a deck. 
-    -On load, create new deck and show button to draw a card
-    -on each click display new card until there are none left
+3. Build an HTML page that lets you draw cards from a deck. -- DONE
+    -On load, create new deck and show button to draw a card -- DONE
+    -on each click display new card until there are none left -- DONE
