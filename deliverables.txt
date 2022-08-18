@@ -1,0 +1,17 @@
+Using Promises
+
+Part 1: Number Facts
+
+1. Get a fact about your favorite number using Numbers API -- DONE
+2. Get data on multiple numbers in a single request. Make that request and when you get 
+data back put all number facts on page -- DONE
+3. Get 4 facts about favorite number from API and put them on page (will require multiple requests) -- DONE
+
+
+Part 2: Deck of Cards
+1. Request single card from newly shuffled deck, then console.log the value
+2. Do the same as above but when you have the card make another request to get one more card
+from the same deck
+3. Build an HTML page that lets you draw cards from a deck. 
+    -On load, create new deck and show button to draw a card
+    -on each click display new card until there are none left
